@@ -1,8 +1,5 @@
-# mi_primer_repositorio
+# mi primera página web
 
-Este es mi primer ejercio del curso Programación SIG
+Enlace al sitio web de la Universidad de Costa Rica:
+[Sitio Web de la UCR](https://www.ucr.ac.cr/)
 
-segunda linea
-
-
-Tercera línea  
