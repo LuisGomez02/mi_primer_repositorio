@@ -7,4 +7,4 @@ Enlace al sitio web de la Universidad de Costa Rica:
 ###Encabezado de nivel 3  
 ####Encabezado de nivel 4
 
-++texto en negrita++
+**texto en negrita**
